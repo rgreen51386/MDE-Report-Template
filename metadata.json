@@ -1,0 +1,18 @@
+{
+  "templates": {
+    "Sample MDE.docx": {
+      "name": "Sample MDE Template",
+      "description": "Sample MDE evaluation template",
+      "type": "mde",
+      "uploadDate": "2024-07-24T00:00:00Z",
+      "tags": ["mde", "evaluation"]
+    },
+    "Sample IS.docx": {
+      "name": "Sample Integrated Summary Template", 
+      "description": "Sample Integrated Summary template",
+      "type": "integrated_summary",
+      "uploadDate": "2024-07-24T00:00:00Z",
+      "tags": ["integrated_summary", "evaluation"]
+    }
+  }
+}
